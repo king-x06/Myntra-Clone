@@ -20,4 +20,4 @@ This is a **static clone of Myntra’s homepage** built using **only HTML and CS
 ## 🚀 How to Run Locally  
 1. Clone the repository:  
    ```sh
-   git clone https://github.com/your-username/myntra-clone.git
+   git clone https://github.com/king-x06/myntra-clone.git
